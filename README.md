@@ -1,2 +1,3 @@
 # Capstone_Coursera
-Repository for the final project of the Applied Data Science Certificate
+Visualizing Areas of High Risk for Community Accquired COVID-2019 Transmission
+
