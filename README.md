@@ -6,11 +6,11 @@
 -Topic: Visualizing Areas of High Risk for Community Accquired COVID-2019 Transmission in Hamilton, Ontario, Canada.
 
 ## **Requirements**
--Python (Pandas, Folium, Matplotlib, Geocoder, Nominatim, JSON, CSV, Requests, lxml).
+-Python (Pandas, Folium, Matplotlib, NumPy, Seaborn, JSON, CSV, Requests, lxml).
 
 -FourSquare Developer API access (Free Account).
 
--Beautiful Soup 4.40 (for scraping HTML/XML).
+-Files (TBA)
 
 ## **Instructions**
 TBA
